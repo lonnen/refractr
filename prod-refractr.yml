@@ -1252,3 +1252,8 @@ refracts:
 - github.com/mozilla/contribute.json:
   - contributejson.org
   - www.contributejson.org
+
+# SE-####
+- future.mozilla.org/:
+  - labs.mozilla.org
+  - labs.mozilla.com
